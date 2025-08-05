@@ -1,0 +1,169 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "araylist",
+            "request": "launch",
+            "mainClass": "araylist",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "variabel",
+            "request": "launch",
+            "mainClass": "variabel",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tugas2",
+            "request": "launch",
+            "mainClass": "tugas2",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tugas3",
+            "request": "launch",
+            "mainClass": "tugas3",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "namakotaaa",
+            "request": "launch",
+            "mainClass": "namakotaaa",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tes",
+            "request": "launch",
+            "mainClass": "tes",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tg",
+            "request": "launch",
+            "mainClass": "tg",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tgs3",
+            "request": "launch",
+            "mainClass": "tgs3",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tgs2",
+            "request": "launch",
+            "mainClass": "tgs2",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "tgsperulangan",
+            "request": "launch",
+            "mainClass": "tgsperulangan",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "perulangan",
+            "request": "launch",
+            "mainClass": "perulangan",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "looping",
+            "request": "launch",
+            "mainClass": "looping",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "variabel1",
+            "request": "launch",
+            "mainClass": "variabel1",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "soal2",
+            "request": "launch",
+            "mainClass": "soal2",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "inputbarang1",
+            "request": "launch",
+            "mainClass": "inputbarang1",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "soal1",
+            "request": "launch",
+            "mainClass": "soal1",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "switchcatch",
+            "request": "launch",
+            "mainClass": "switchcatch",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "Umur",
+            "request": "launch",
+            "mainClass": "Umur",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "nilai2",
+            "request": "launch",
+            "mainClass": "nilai2",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "Nilai",
+            "request": "launch",
+            "mainClass": "Nilai",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "Percabangan",
+            "request": "launch",
+            "mainClass": "Percabangan",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "remed",
+            "request": "launch",
+            "mainClass": "remed",
+            "projectName": "progdas_73650b76"
+        },
+        {
+            "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "progdas_73650b76"
+        }
+    ]
+}
